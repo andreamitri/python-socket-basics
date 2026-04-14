@@ -1,2 +1,3 @@
-# python-socket-basics
+In Module 5, I learned how the internet works through the TCP/IP model and how clients and servers communicate using sockets. One key takeaway was how DNS translates human-readable domain names into IP addresses, which makes web browsing possible. I also found it interesting how HTTP operates on top of TCP to transfer web content between browsers and servers.
 
+Something that surprised me was how simple the socket API is in Python, despite powering complex global systems. One topic I would like to explore further is how HTTPS and encryption work to secure communication between clients and servers.
